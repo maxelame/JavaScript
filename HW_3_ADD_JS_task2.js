@@ -359,4 +359,5 @@ users = [{
 }
 ]
 
-
+const uniqueUsers = [...new Set(users.map(obj => obj.name))];
+console.log(uniqueUsers)
