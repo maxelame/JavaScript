@@ -95,4 +95,3 @@ console.log(list_users)
 }
 
 users_reg_dates('09.10.2021', '10.10.2021')
-
